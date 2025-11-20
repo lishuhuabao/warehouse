@@ -1,0 +1,9 @@
+net\sx1276_timer.o: ..\radio\src\sx1276_timer.c
+net\sx1276_timer.o: ..\radio\inc\sx1276_timer.h
+net\sx1276_timer.o: D:\Software\Keil\Keil_MDK\Core\ARM\ARMCC\Bin\..\include\stdint.h
+net\sx1276_timer.o: D:\Software\Keil\Keil_MDK\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+net\sx1276_timer.o: D:\Software\Keil\Keil_MDK\Core\ARM\ARMCC\Bin\..\include\string.h
+net\sx1276_timer.o: D:\Software\Keil\Keil_MDK\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+net\sx1276_timer.o: D:\Software\Keil\Keil_MDK\Core\ARM\ARMCC\Bin\..\include\stdio.h
+net\sx1276_timer.o: D:\Software\Keil\Keil_MDK\Core\ARM\ARMCC\Bin\..\include\stddef.h
+net\sx1276_timer.o: D:\Software\Keil\Keil_MDK\Core\ARM\ARMCC\Bin\..\include\stdlib.h

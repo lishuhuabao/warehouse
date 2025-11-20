@@ -1,0 +1,9 @@
+.\objects\sx1276_timer.o: ..\radio\src\sx1276_timer.c
+.\objects\sx1276_timer.o: ..\radio\inc\sx1276_timer.h
+.\objects\sx1276_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sx1276_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\sx1276_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\sx1276_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\sx1276_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sx1276_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\sx1276_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

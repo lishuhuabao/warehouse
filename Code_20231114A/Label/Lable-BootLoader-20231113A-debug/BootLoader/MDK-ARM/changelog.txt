@@ -1,0 +1,10 @@
+
+Label-BootLoader-20231113A
+1. 修复backup空间没有正常工作的问题；
+
+Label-BootLoader-20231106A
+1. 修复程序起始地址判断逻辑错误的问题；
+
+Label-BootLoader-20231029A
+1. 修复远程升级失败的问题；
+2. 优化远程升级速度；
